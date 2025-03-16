@@ -285,17 +285,16 @@
                     ],
                     "credits": "Queen Snowfall, air1usa"
                 }
-            ],
             {
-                "name": "Big Peach",
-                "texture": [
-                    "https://i.ibb.co/JwnFFgjw/big-peach.jpg"
-                ],
-                "credits": "Queen Snowfall, air1usa"
+                    "name": "Big Peach",
+                    "texture": [
+                        "https://i.ibb.co/JwnFFgjw/big-peach.jpg"
+                    ],
+                    "credits": "Queen Snowfall, air1usa"
             }
         ],
-            "labels": [
-                "Texture"
+        "labels": [
+            "Texture"
             ]
         },
         "3534": {
