@@ -236,6 +236,14 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "Azalea Airlines",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/pBmrhczp/aa35.png"
+                    ],
+                    "credits": "Air1usa"
+                }
             ],
             "labels": [
                 "Texture"
