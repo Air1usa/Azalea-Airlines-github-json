@@ -456,10 +456,6 @@
             "name": "Airbus a321neo",
             "liveries":[
                 {
-                    "name": "Azalea Airlines Retro Livery",
-                    "texture": [
-                        "https://146687434-530121269341574877.preview.editmysite.com/uploads/1/4/6/6/146687434/tx1__5_2.jpg"
-                    ],
                     "credits": "𝒬𝓊𝑒𝑒𝓃 𝒮𝓃𝑜𝓌𝒻𝒶𝓁𝓁"
                 },
         "7": {
@@ -563,8 +559,6 @@
             "liveries":[
                 {
                     "name": "Azalea Airlines Retro Livery",
-                    "texture": [
-                        "https://146687434-530121269341574877.preview.editmysite.com/uploads/1/4/6/6/146687434/tx1__5_2.jpg"
                     ],
                     "credits": "𝒬𝓊𝑒𝑒𝓃 𝒮𝓃𝑜𝓌𝒻𝒶𝓁𝓁"
                 },
